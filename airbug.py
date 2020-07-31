@@ -16,7 +16,7 @@ except ImportError:
     print("You must run 'pip3 install HackRequests'")
     exit()
 
-WEB_REPOSITORY = "https://github.com/Th4ck-Team/airbug"
+WEB_REPOSITORY = "https://github.com/Th4ck-Team/airbug/blob"
 HACK = HackRequests.hackRequests()
 
 
